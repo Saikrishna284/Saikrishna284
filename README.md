@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saikrishna284
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 I have completed my bachelor's degree in Computer Science Engineering
 - 📫 How to reach me saikrishnareddy284@gmail.com
 
 <!---
